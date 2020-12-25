@@ -1,5 +1,7 @@
 # Jogo criado em Python inspirado no classico Pong desenvolvido pela Atari em 1972
 
+# Som do quique da bola funciona apenas no MACOSX
+
 # By Vitor Tatekawa
 
 import turtle
